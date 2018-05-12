@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38846'
     url: http://www.gutenberg.org/2009/agents/38846
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37445#The-Lady-and-Her-Horseinto-a-System-of-Equitation
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
 identifiers:
